@@ -29,6 +29,9 @@ let arr = [1,"1", true,undefined,null,[1,2]];
 // }    // this will give you the only the value of the arry 
 
 
+
+
+
 // let obj = {
 //   "fName": "Aryan",
 //   "lname": "jr",
