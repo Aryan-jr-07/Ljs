@@ -14,7 +14,7 @@
 // console.log("abcd".indexOf("c"));
 // console.log(Math.max(1,2,3,3,4,5,6,7));
 
-let arr = [1,"1", true,undefined,null,[1,2]];
+// let arr = [1,"1", true,undefined,null,[1,2]];
 // console.log(arr.length);
 // console.log(arr[7]);
 // arr.push();
@@ -35,3 +35,7 @@ let arr = [1,"1", true,undefined,null,[1,2]];
 // };
 // console.log(obj["fName"]);
 // console.log(obj)
+
+let age = 18;
+(age >=19) ? console.log("adult") : console.log("not adult");
+
