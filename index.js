@@ -35,9 +35,3 @@ let arr = [1,"1", true,undefined,null,[1,2]];
 // };
 // console.log(obj["fName"]);
 // console.log(obj)
-
-
-
-
-
-
